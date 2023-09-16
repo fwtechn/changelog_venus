@@ -1,0 +1,25 @@
+[ 20230910-1711 ]
+- Updated firmware images to MIUI Global V14.0.6.0
+- Re-added edca parameters in WCNSS_qcom_cfg.ini
+- Added VoNR(Vo5G) toggle
+- Show 4G instead of LTE
+- Set device model to "Mi 11" instead of "M2011K2G"
+
+
+[ 20230825-1356 ]
+- Added 90Hz refresh rate
+- Added min and max refresh rate controls
+- Removed Smooth Display setting
+
+
+[ 20230823-0748 ]
+- Added more wifi configs
+- Ignore compatibility in SoftAP to improve network speed
+- Updated some files in vendor/etc/wifi
+
+
+[ 20230820-0328 ]
+- Initial build
+- Updated to TQ3A.230825.001
+- August security patch
+- No other changes from Official build
