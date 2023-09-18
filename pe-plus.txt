@@ -20,6 +20,6 @@
 
 [ 20230820-0328 ]
 - Initial build
-- Updated to TQ3A.230825.001
+- Updated to TQ3A.230805.001
 - August security patch
 - No other changes from Official build
