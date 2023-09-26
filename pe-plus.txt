@@ -1,3 +1,11 @@
+[20230926-0543]
+- Updated to TQ3A.230901.001.B1
+- September security patch
+- Added Google Camera 8.7.250
+- Removed LineageOS Camera
+- Updated recovery mode
+
+
 [ 20230910-1711 ]
 - Updated firmware images to MIUI Global V14.0.6.0
 - Re-added edca parameters in WCNSS_qcom_cfg.ini
