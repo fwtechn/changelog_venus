@@ -1,9 +1,15 @@
-[20230926-0543]
+[ 20231001-1147 ]
+- Updated to GCam 9.0.115 
+- Changed to GCam that Leica supported
+- Adjusted the number of notification icons displayed in the status bar
+
+
+[ 20230926-0543 ]
 - Updated to TQ3A.230901.001.B1
 - September security patch
-- Added Google Camera 8.7.250
+- Added GCam 8.7.250
 - Removed LineageOS Camera
-- Updated recovery mode
+- Updated the recovery mode
 
 
 [ 20230910-1711 ]
