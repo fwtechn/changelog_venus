@@ -1,14 +1,16 @@
-[ 20231001-1147 ]
-- Updated to GCam 9.0.37-V1.0
-- Changed to GCam that Leica supported
-- Adjusted the number of notification icons displayed in the status bar
+[ 20231008-1452 ]
+- Changed firmware images to MIUI China V14.0.10.0
+- Adjusted notification icons in status bar
+- Enabled 5G SA and NSA
+- New Auto Selection Network UI
+- Set p2p preference channel
 
 
 [ 20230926-0543 ]
 - Updated to TQ3A.230901.001.B1
 - September security patch
-- Added GCam 8.7.250-V15
-- Removed LineageOS Camera
+- Added GCam V8.7.250 Stable
+- Removed AOSP Camera
 - Updated the recovery mode
 
 
@@ -16,19 +18,19 @@
 - Updated firmware images to MIUI Global V14.0.6.0
 - Re-added edca parameters in WCNSS_qcom_cfg.ini
 - Added VoNR(Vo5G) toggle
-- Show 4G instead of LTE
-- Set device model to "Mi 11" instead of "M2011K2G"
+- Show 4G instead of LTE in all carriers
+- Set device model to "Mi 11" instead of "M2011K2G", "M2011K2C"
 
 
 [ 20230825-1356 ]
 - Added 90Hz refresh rate
-- Added min and max refresh rate controls
-- Removed Smooth Display setting
+- Added Min/Max refresh rate controls
+- Removed Smooth Display toggle
 
 
 [ 20230823-0748 ]
 - Added more wifi configs
-- Ignore compatibility in SoftAP to improve network speed
+- Ignore compatibility in SoftAP
 - Updated some files in vendor/etc/wifi
 
 
@@ -36,4 +38,3 @@
 - Initial build
 - Updated to TQ3A.230805.001
 - August security patch
-- No other changes from Official build
