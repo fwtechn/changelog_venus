@@ -17,7 +17,7 @@
 [ 20230910-1711 ]
 - Updated firmware images to MIUI Global V14.0.6.0
 - Re-added edca parameters in WCNSS_qcom_cfg.ini
-- Added VoNR(Vo5G) toggle
+- Added Vo5G toggle
 - Show 4G instead of LTE in all carriers
 - Set device model to "Mi 11" instead of "M2011K2G", "M2011K2C"
 
