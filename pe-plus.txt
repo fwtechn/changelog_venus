@@ -1,5 +1,5 @@
 [ 20231008-1452 ]
-- This is the last Android 13 update. Next is Android 14. 
+※ This is the last Android 13 update. Next is Android 14. 
 - Changed firmware images to MIUI China V14.0.10.0
 - Adjusted notification icons in status bar
 - Enabled 5G SA and NSA
