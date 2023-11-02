@@ -31,6 +31,7 @@
 
 [ 20230823-0748 ]
 - Added more wifi configs
+- Enabled WPA3-OWE for SoftAP
 - Ignore compatibility in SoftAP
 - Updated some files in vendor/etc/wifi
 
