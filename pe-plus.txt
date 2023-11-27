@@ -1,5 +1,5 @@
 [ 20231008-1452 ]
-※ Pixel Experience currently working on a fix Google wallet.
+※ Pixel Experience currently working on a fix Google wallet. and wait until next update. 
 - Changed firmware images to MIUI China V14.0.10.0
 - Adjusted notification icons in status bar
 - Enabled 5G SA and NSA
