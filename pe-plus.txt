@@ -1,42 +1,12 @@
+[ 20240103-1745 ]
+- November security patch
+- Changed firmware images to MIUI Global V14.0.7.0
+- Changed GCam package to eng
+- Added Camera2 API in build.prop
+
 [ 20231008-1452 ]
-※ Pixel Experience currently working on a fix Google wallet. and wait until next update. 
 - Changed firmware images to MIUI China V14.0.10.0
 - Adjusted notification icons in status bar
 - Enabled 5G SA and NSA
 - New Auto Selection Network UI
 - Set p2p preference channel
-
-
-[ 20230926-0543 ]
-- Updated to TQ3A.230901.001.B1
-- September security patch
-- Added GCam V8.7.250 Stable
-- Removed AOSP Camera
-- Updated the recovery mode
-
-
-[ 20230910-1711 ]
-- Updated firmware images to MIUI Global V14.0.6.0
-- Re-added edca parameters in WCNSS_qcom_cfg.ini
-- Added Vo5G toggle
-- Show 4G instead of LTE in all carriers
-- Set device model to "Mi 11" instead of "M2011K2G", "M2011K2C"
-
-
-[ 20230825-1356 ]
-- Added 90Hz refresh rate
-- Added Min/Max refresh rate controls
-- Removed Smooth Display toggle
-
-
-[ 20230823-0748 ]
-- Added more wifi configs
-- Enabled WPA3-OWE for SoftAP
-- Ignore compatibility in SoftAP
-- Updated some files in vendor/etc/wifi
-
-
-[ 20230820-0328 ]
-- Initial build
-- Updated to TQ3A.230805.001
-- August security patch
