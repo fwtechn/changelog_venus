@@ -3,6 +3,7 @@
 - Changed firmware images to MIUI Global V14.0.7.0
 - Changed GCam package to eng
 - Added Camera2 API in build.prop
+- Play integrity fixed
 
 [ 20231008-1452 ]
 - Changed firmware images to MIUI China V14.0.10.0
